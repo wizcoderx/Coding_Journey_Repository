@@ -12,7 +12,7 @@
 
 6. Write a short Python function that takes a positive integer n and returns the sum of the squares of all the odd positive integers smaller than n. (code_six.py)
 
-7.Give a single command that computes the sum from Exercise R-1.6, relying on Python’s comprehension syntax and the built-in sum function. (included in code_six.py)
+7. Give a single command that computes the sum from Exercise R-1.6, relying on Python’s comprehension syntax and the built-in sum function. (included in code_six.py)
 
 8. Python allows negative integers to be used as indices into a sequence, such as a string. If string s has length n, and expression s[k] is used for index -n ≤ k < 0, what is the equivalent index j ≥ 0 such that s[j] references the same element? (code_eight.py)
 
@@ -24,4 +24,4 @@
 
 12.  Python’s random module includes a function choice(data) that returns a random element from a non-empty sequence. The random module includes a more basic function randrange, with parameterization similar to the built-in range function, that returns a random choice from the given range. Using only the randrange function, implement your own version of the choice function. (code_twelve.py)
 
-13. 
+13.
