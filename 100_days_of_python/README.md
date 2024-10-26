@@ -1,0 +1,1 @@
+This repository consist of all the python codes I have practiced/created during the 100 days coding. Each day project is divided into different folder with respect to thier Number of Day. All the folder contains a 'main.py' file which is the file that needs to be execute everything else is just a supporting file.
