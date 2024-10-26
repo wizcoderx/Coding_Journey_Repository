@@ -1,0 +1,1 @@
+### This folder contains the code that was implemented and practiced from the book **Data Structures and Algorithms using Python**. This has a folder 'Chapter_1' and other chapter wise questions. 
