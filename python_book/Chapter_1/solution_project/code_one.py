@@ -16,4 +16,4 @@ for perm in all_permutations:
     count +=1
     print(''.join(perm))
 
-print(count)
+print(f"The number of permutations from the list {characters} is {count}")
