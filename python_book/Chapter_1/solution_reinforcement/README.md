@@ -27,3 +27,17 @@
 13. Write a short Python function that counts the number of vowels in a given character string.
 
 14. Write a short Python function that takes a string 's'  representing a sentence, and returns a copy of the string with all punctuation removed. For example, if given the string “Let’s try, Mike.”, this function would return “Lets try Mike”.
+
+15. Write a short program that takes as input three integers `a`, `b`, and `c` from the console and determines if they can be used in a correct arithmetic formula (in the given order), such as:
+
+- `a + b = c`
+- `a = b - c`
+- `a * b = c`
+
+The program should check if any of these conditions hold true.
+
+## Projects
+
+1. Write a Python program that outputs all possible strings formed by using the characters 'c', 'a', 't', 'd', 'o', and 'g' exactly once.
+
+2. Write a Python program that can take a positive integer greater than 2 as input and write out the number of times one must repeatedly divide this number by 2 before getting a value less than 2
