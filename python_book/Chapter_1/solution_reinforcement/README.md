@@ -24,4 +24,6 @@
 
 12.  Python’s random module includes a function choice(data) that returns a random element from a non-empty sequence. The random module includes a more basic function randrange, with parameterization similar to the built-in range function, that returns a random choice from the given range. Using only the randrange function, implement your own version of the choice function. (code_twelve.py)
 
-13.
+13. Write a short Python function that counts the number of vowels in a given character string.
+
+14. Write a short Python function that takes a string 's'  representing a sentence, and returns a copy of the string with all punctuation removed. For example, if given the string “Let’s try, Mike.”, this function would return “Lets try Mike”.
