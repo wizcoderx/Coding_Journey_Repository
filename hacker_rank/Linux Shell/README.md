@@ -10,6 +10,7 @@ The numbers are as per code wise, for example number 1 is code_one and so on
 5. **Given two numbers X and Y, identifies if X < Y, X > Y, or X == Y.**
 6. **Read in one character from STDIN. If the character is 'Y' or 'y' display "YES". If the character is 'N' or 'n' display "NO". No other character will be provided as input.**
 7. **Determines if a triangle is scalene, equilateral, or isosceles.**
+8. **give me bash command for 'Given  lines of input, print the 3rd character from each line as a new line of output. It is guaranteed that each of the N lines of input will have a 3rd character.'**
 
 
 
