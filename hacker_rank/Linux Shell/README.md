@@ -12,6 +12,7 @@ The numbers are as per code wise, for example number 1 is code_one and so on
 7. **Determines if a triangle is scalene, equilateral, or isosceles.**
 8. **give me bash command for 'Given  lines of input, print the 3rd character from each line as a new line of output. It is guaranteed that each of the N lines of input will have a 3rd character.'**
 9. **Display the 2nd and 7th character from each line of text.**
+10. **Display a range of characters starting at the  position of a string and ending at the  position (both positions included).**
 
 
 
