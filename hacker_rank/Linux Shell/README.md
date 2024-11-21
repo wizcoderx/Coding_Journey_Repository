@@ -54,6 +54,9 @@ The numbers correspond to the respective code files, e.g., `code_one` for challe
 11. **Extract First Four Characters**
     Display the first four characters from each line of text.
 
+12. **Cut-5**
+    Given a tab delimited file with several columns (tsv format) print the first three fields
+
 ---
 
 ## Usage
