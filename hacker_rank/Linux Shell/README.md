@@ -57,6 +57,18 @@ The numbers correspond to the respective code files, e.g., `code_one` for challe
 12. **Cut-5**
     Given a tab delimited file with several columns (tsv format) print the first three fields
 
+13. **Cut-6**
+    Print the characters from thirteenth position to the end. The output should contain N lines. For each input line, print the characters from thirteenth position to the end.
+
+14. **Cut-7**
+    Print the characters from thirteenth position to the end. The output should contain N lines. For each input line, print the characters from thirteenth position to the end.
+
+15. **Cut-8**
+    For each input sentence, identify and display its fourth word. Assume that the space (' ') is the only delimiter between words.
+
+16. **Cut-9**
+    Given a tab delimited file with several columns (tsv format) print the fields from second fields to last field.
+
 ---
 
 ## Usage
