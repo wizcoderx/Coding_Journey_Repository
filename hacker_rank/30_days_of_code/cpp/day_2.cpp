@@ -1,3 +1,5 @@
+// /https://www.hackerrank.com/challenges/30-operators
+
 #include <iostream>
 #include <cmath>
 #include <vector>
