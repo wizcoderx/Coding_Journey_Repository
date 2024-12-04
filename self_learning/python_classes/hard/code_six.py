@@ -1,0 +1,3 @@
+'''
+   Design a `Cart` class that allows users to add and remove multiple `Product` instances, representing products in an online store. The `Product` class should have attributes `name`, `price`, and `stock`. Implement a `checkout` method in the `Cart` class that calculates the total price and deducts quantities from the `Product` stock. If an item’s stock is insufficient, the checkout should give an error message.
+'''
