@@ -36,6 +36,6 @@ This repository serves as a personal tracker of my coding journey, helping me vi
 - Add more languages and projects
 - Track my learning and development
 
-## Motivation
+## My Quote
 
-Programming is a journey of continuous learning, and this repository is a testament to my dedication and passion for coding.
+Life is to short to write a bad code, so keep yourself sharp!
