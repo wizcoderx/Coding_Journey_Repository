@@ -13,4 +13,4 @@ class RentalService:
 
     def rent_movie(title):
         # Find the movie with the given title and decrement its available copies
-        
+        pass
