@@ -1,0 +1,1 @@
+All the questions are divided into three parts as per the given problems in the book check each and every folder.
