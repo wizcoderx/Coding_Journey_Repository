@@ -8,5 +8,7 @@ Welcome to my HackerRank practice folder! This folder is updated daily with solu
 
 Each file in the repository includes comments with the URL of the corresponding problem from the official HackerRank website.
 
+it also contains all the progress of my hackerrank till now.
+
 
 
