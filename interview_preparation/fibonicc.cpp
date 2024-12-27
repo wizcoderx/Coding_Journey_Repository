@@ -1,0 +1,1 @@
+// Write a program which will print the fibonicc series of 10 numbers, take the iunput of two numbers from the user.
