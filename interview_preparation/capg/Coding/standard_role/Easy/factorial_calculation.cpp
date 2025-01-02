@@ -3,7 +3,7 @@
 #include <iostream>
 using namespace std;
 
-int factorial(double n) {
+int factorial(int n) {
     if (n==0) {
         return 1;
     }
